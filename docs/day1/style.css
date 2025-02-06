@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(179, 221, 179);
+}
+
+body p strong{
+    color: red;
+}
+
+p{
+    border: 1px dashed black;
+    padding: 5px;
+}
+
+p.principal{
+    border: 2px dashed black;
+}
+p.alerta{
+    border: 2px solid red;
+    padding: 10px;
+}
+
+img{
+    border-radius: 50%;
+}
+
+#logo_django{
+    width: 50px;
+}
+#logo_python{
+    width: 100px;
+}
